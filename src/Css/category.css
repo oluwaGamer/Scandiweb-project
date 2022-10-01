@@ -1,0 +1,23 @@
+.page-content {
+    display: inline-flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.ProductImage {
+    display: block;
+    width: 80%;
+    margin: auto;
+    object-fit: cover;
+    
+}
+
+.single-product {
+    width: 30vw;
+    padding: 10px;
+    height: 70vh;
+}
+
+.single-product:hover {
+    border: 2px solid red;
+}

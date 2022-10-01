@@ -1,0 +1,32 @@
+.description-page-content {
+    display: flex;
+    justify-content: center;
+    width: 90vw;
+    margin: auto;
+}
+
+.image-list-div {
+    width: 100px;
+    border: 2px solid red;
+    display: flex;
+    flex-direction: column;
+    max-height: 90vh;
+}
+
+.image-list-image {
+    width: 100%;
+}
+
+.main-img-div {
+    margin: 0 20px;
+    max-width: 500px;
+}
+
+.main-img {
+    width: 100%;
+    border: 1px solid red;
+}
+
+.product-attr-div {
+    max-width: 300px;
+}
